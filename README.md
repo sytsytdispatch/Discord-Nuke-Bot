@@ -7,11 +7,11 @@ I do not take responsability for what you do
 ---------------------------------------------
 
 Commands:
-
+-------------------
 !fuck   - starts bot
----------------------
-thats it lmfao
 
+thats it lmfao
+---------------------
 once you start it, there is no going back
 
 have fun ;)
